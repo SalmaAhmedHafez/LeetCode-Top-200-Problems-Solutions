@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
