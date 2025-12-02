@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0141-linked-list-cycle) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
