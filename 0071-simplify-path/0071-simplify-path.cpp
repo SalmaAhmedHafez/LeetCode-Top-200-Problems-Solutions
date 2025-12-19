@@ -9,7 +9,7 @@ public:
                 if(tmp == "") continue;
                 if(tmp == ".") tmp = "";
                 else if(tmp == ".."){
-                    if(!st.empty()) st.pop_back();
+                    if(st.size()) st.pop_back();
                 }
                 else st.push_back(tmp);
                 tmp = "";
