@@ -11,6 +11,7 @@ public:
                     st.pop();
                 }
                 else{
+                    if(i == '}' || i == ')' || i == ']') return false; 
                     st.push(i);
                 }
             }
