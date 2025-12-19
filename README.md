@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0290-word-pattern) |
