@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
