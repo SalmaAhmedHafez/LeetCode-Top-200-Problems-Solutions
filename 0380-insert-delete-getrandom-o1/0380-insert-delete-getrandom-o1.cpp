@@ -1,36 +1,35 @@
 class RandomizedSet {
 public:
-    set <int> st;
-    RandomizedSet() {
-    }
-    
+    vector<int> v;
+    map <int, int> pos;
+    int cnt = 0;
+
+    RandomizedSet() {}
+
     bool insert(int val) {
-        if(st.find(val) == st.end()){
-            st.insert(val);
-            return true;
-        }
-        return false;
+        if (pos[val] > 0) return false;
+        pos[val] = ++cnt;
+        v.push_back(val);
+        return true;
     }
-    
+
     bool remove(int val) {
-        if(st.find(val) != st.end()){
-            st.erase(val);
-            return true;
+        if (pos[val] == 0) return false;
+
+        int idx = pos[val];
+        if(cnt > 1){
+            int last = v.back();
+            v[idx-1] = last;
+            pos[last] = idx;
         }
-        return false;
+
+        v.pop_back();
+        pos[val] = 0;
+        cnt --;
+        return true;
     }
-    
-      int getRandom() {
-        int idx = rand() % st.size();
-        auto it = next(st.begin(), idx);
-        return *it;
+
+    int getRandom() {
+        return v[rand() % v.size()];
     }
 };
-
-/**
- * Your RandomizedSet object will be instantiated and called as such:
- * RandomizedSet* obj = new RandomizedSet();
- * bool param_1 = obj->insert(val);
- * bool param_2 = obj->remove(val);
- * int param_3 = obj->getRandom();
- */
