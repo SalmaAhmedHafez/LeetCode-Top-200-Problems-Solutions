@@ -243,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
