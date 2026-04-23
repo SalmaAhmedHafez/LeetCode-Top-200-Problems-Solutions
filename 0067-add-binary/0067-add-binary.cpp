@@ -8,8 +8,7 @@ public:
         int n = a.size(), m = b.size();
         for(int i = 0; i < max(n, m); i++){
             int digit = (i < n ? a[i] - '0' : 0) + (i < m? b[i]-'0' : 0) + carry;
-            if(digit >= 2) carry = 1;
-            else carry = 0;
+            carry = digit / 2;
             ans.push_back((char)( (digit%2) + '0'));
         }
         if(carry) ans.push_back('1');
