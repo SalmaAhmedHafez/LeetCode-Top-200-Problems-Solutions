@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -252,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0077-combinations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
