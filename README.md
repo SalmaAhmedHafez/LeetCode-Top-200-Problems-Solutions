@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
