@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0224-basic-calculator) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SalmaAhmedHafez/SQL-Problems/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0067-add-binary) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
