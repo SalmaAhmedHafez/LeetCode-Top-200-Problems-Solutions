@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/SalmaAhmedHafez/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0200-number-of-islands) |
 ## Design
 |  |
 | ------- |
@@ -284,4 +286,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0149-max-points-on-a-line) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SalmaAhmedHafez/LeetCode-Top-200-Problems-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
